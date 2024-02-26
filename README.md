@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ilnik
-- 👀 I’m interested in learning Java, drums, reading and death metall.
-- 🌱 I’m currently learning Java.
-- 💞️ I’m looking to collaborate on people who learning Java.
+- 👀 I’m interested in learning Python, drums, reading and death metall.
+- 🌱 I’m currently learning Python.
+- 💞️ I’m looking to collaborate on people who learning Python.
 - 📫 How to reach me here or via e-mail: ilnik1@yandex.ru
 
 <!---
